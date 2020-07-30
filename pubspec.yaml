@@ -23,6 +23,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  moor_flutter: ^3.1.0
+  provider: ^4.3.1
+  
+  
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -32,6 +36,9 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  moor_generator: ^3.3.0
+  build_runner: ^1.10.0
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
